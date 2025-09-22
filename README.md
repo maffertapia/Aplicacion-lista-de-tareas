@@ -1,5 +1,5 @@
 # Tkinter To Do App 📝  
-Aplicación de lista de tareas hecha con Python + Tkinter.  
+To do App minimalista, para quienes prefieren la calma de lo simple. 🩶  
 
 ## Funcionalidades
 - Añadir tareas
